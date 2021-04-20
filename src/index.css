@@ -1,0 +1,17 @@
+
+
+*{
+  font-family: 'Roboto Mono', monospace;
+}
+
+body{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  font-weight: 100;
+  color: #FFF;
+  background: linear-gradient(90deg, rgba(106,106,106,1) 0%, rgba(146,146,148,1) 35%, rgba(230,230,230,1) 100%);
+}
